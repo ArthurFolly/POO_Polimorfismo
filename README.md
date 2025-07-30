@@ -1,1 +1,2 @@
-# POO_Polimorfismo
+# PolimorfismoDelphi
+Aplicação de polimorfismo em Delphi
